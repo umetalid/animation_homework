@@ -12,7 +12,6 @@
         android:layout_width="358dp"
         android:layout_height="45dp"
         android:text="@string/safety"
-        android:text="Берегите себя и своих близких. Носите маски и обрабатывайте руки антисептиком!"
         android:textColor="#700101"
         android:textSize="15sp"
         android:textStyle="bold"
